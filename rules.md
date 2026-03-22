@@ -49,3 +49,8 @@ These rules apply to ALL projects under RanchRock. Every Claude instance must fo
 
 ## Holy Text
 - 016/022: Entry format: NEW ENTRY — [Date], [Time] [Timezone]. End with END OF ENTRY.
+
+## CLAUDESYNC
+- 039: CLAUDESYNC is the primary context delivery method. Fetch from GitHub, not the Holy Text.
+- 040: CLAUDESYNC pages are updated via CC, never by Claude directly.
+- 041: Raw GitHub URLs require branch names without forward slashes. Default branch is `main`.

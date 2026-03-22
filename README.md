@@ -12,9 +12,9 @@ This repo is a structured knowledge base for all RanchRock Holdings operations. 
 
 All files are accessible at:
 ```
-https://raw.githubusercontent.com/MathrusseB/CLAUDESYNC/main/[path]
+https://raw.githubusercontent.com/MathrusseB/CLAUDESYNC/claude/main/[path]
 ```
-Example: `https://raw.githubusercontent.com/MathrusseB/CLAUDESYNC/main/kleos/status.md`
+Example: `https://raw.githubusercontent.com/MathrusseB/CLAUDESYNC/claude/main/kleos/status.md`
 
 ## For Claude Instances
 
@@ -29,20 +29,21 @@ At the end of any session that changes project status, revenue, rules, or depend
 
 ## Page Index
 
-| Page | What It Contains |
-|------|-----------------|
-| state.md | Master snapshot of everything — start here |
-| rules.md | All operational rules (design, content, technical, process) |
-| revenue.md | Revenue across all brands |
-| legal.md | Corporate structure, filings, IP |
-| changelog.md | Reverse-chronological update log |
-| kleos/status.md | Kleos overview and priorities |
-| kleos/clients.md | All Kleos client projects |
-| kleos/kin.md | KIN architecture details |
-| kleos/pipeline.md | Revenue pipeline |
-| calamityville/concept.md | Game concept and mechanics |
-| calamityville/spec.md | Prototype technical spec |
-| calamityville/business.md | Monetization, funding, team |
-| calamityville/roadmap.md | Development phases |
-| speaking/status.md | Speaking career |
-| employment/status.md | Current job, opportunities |
+|Page                     |What It Contains                                                           |
+|-------------------------|---------------------------------------------------------------------------|
+|system.md                |System instructions — how CLAUDESYNC works, query formats, update protocols|
+|state.md                 |Master snapshot of everything — start here                                 |
+|rules.md                 |All operational rules (design, content, technical, process)                |
+|revenue.md               |Revenue across all brands                                                  |
+|legal.md                 |Corporate structure, filings, IP                                           |
+|changelog.md             |Reverse-chronological update log                                           |
+|kleos/status.md          |Kleos overview and priorities                                              |
+|kleos/clients.md         |All Kleos client projects                                                  |
+|kleos/kin.md             |KIN architecture details                                                   |
+|kleos/pipeline.md        |Revenue pipeline                                                           |
+|calamityville/concept.md |Game concept and mechanics                                                 |
+|calamityville/spec.md    |Prototype technical spec                                                   |
+|calamityville/business.md|Monetization, funding, team                                                |
+|calamityville/roadmap.md |Development phases                                                         |
+|speaking/status.md       |Speaking career                                                            |
+|employment/status.md     |Current job, opportunities                                                 |

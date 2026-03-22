@@ -3,6 +3,29 @@
 
 ---
 
+## March 22, 2026 (PSO Session)
+- Supabase startup queries reduced from 7,503 to 5 (lazy loading architecture)
+- 1,204 waterfowl harvest records imported from 3 seasons of spreadsheet data
+- Chart.js integrated via CDN with MRChart wrapper component
+- Guest Reporting overlay built with season filtering, harvest summary bars, chart context switching
+- Season definition standardized: April 1 - March 31, displayed as "YYYY-YY", getSeasonLabel() utility
+- Outfitting Log: read-only protection on waterfowl historical records, independent scroll areas, entry reset
+- Custom Report scroll bug architecturally fixed (state lifted, scroll uses refs not useState)
+- Room names cleaned up (Building + Number only)
+- Guest Log renamed from Room Assignments
+- Login screen updated with Blue Maple Ranch logo, "Designed by Kleos." positioning
+- Daily Visit Diary spec document completed (8 pages, 3 new Supabase tables designed)
+- CC instruction doc created for outfitting log redesign + audit fixes (12 items, not yet executed)
+- Memory rule added: always prioritize accuracy over speed, never guess
+- Pages affected: This would be a new page — suggest creating pso/status.md
+
+## March 22, 2026 (Evening)
+- **CLAUDESYNC knowledge base launched and verified live**
+- **Instructions distributed to all projects**
+- **Rules 039-041 added** (CLAUDESYNC operations, CC-only updates, no slash branches)
+- No revenue changes
+- Pages affected: changelog.md, rules.md
+
 ## March 22, 2026
 - **Corporate structure finalized.** RanchRock Holdings LLC chosen as holding company name. Operating agreement drafted with d/b/a provisions for Calamityville and Kleos. IP assignment covers all projects including speaking materials.
 - **Calamityville concept pivoted.** Expanded from crime-only to all historical events (disasters, scandals, tragedies). Name changed from MurderHouse GO! to Calamityville. Dual-mode gameplay: Discovery (remote) + Explorer (physical visit). Historical events only (decades old minimum) to solve player safety.
