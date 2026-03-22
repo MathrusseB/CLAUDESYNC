@@ -3,6 +3,13 @@
 
 ---
 
+## March 22, 2026 (Evening)
+- **CLAUDESYNC knowledge base launched and verified live**
+- **Instructions distributed to all projects**
+- **Rules 039-041 added** (CLAUDESYNC operations, CC-only updates, no slash branches)
+- No revenue changes
+- Pages affected: changelog.md, rules.md
+
 ## March 22, 2026
 - **Corporate structure finalized.** RanchRock Holdings LLC chosen as holding company name. Operating agreement drafted with d/b/a provisions for Calamityville and Kleos. IP assignment covers all projects including speaking materials.
 - **Calamityville concept pivoted.** Expanded from crime-only to all historical events (disasters, scandals, tragedies). Name changed from MurderHouse GO! to Calamityville. Dual-mode gameplay: Discovery (remote) + Explorer (physical visit). Historical events only (decades old minimum) to solve player safety.
