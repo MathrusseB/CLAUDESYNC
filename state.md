@@ -31,6 +31,9 @@
 5. PSG pitch email to Stephen (next week)
 6. Build Calamityville browser prototype (Session 1: Data Pipeline)
 7. Find IP attorney for Calamityville provisional patent + trademark
+8. Execute CC_OUTFITTING_LOG_REDESIGN_AND_AUDIT_FIXES.md (12 items)
+9. Build Daily Visit Diary module (spec complete, CC prompt needed)
+10. Complete print output audit and fixes (Pass 4)
 
 ## Relevant Pages
 - Corporate/legal details → legal.md
