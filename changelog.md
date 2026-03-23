@@ -3,6 +3,17 @@
 
 ---
 
+## March 22, 2026 (TFP Session — Evening)
+- TFP website V2 fully redesigned and deployed to Railway (taskforceprotection-production.up.railway.app)
+- Aventura-inspired cinematic scroll redesign launched with real client data
+- Five visual patches applied post-launch: spacing, typography weight, section transitions, visual consistency
+- Bo's Spartan helmet logo integrated across nav, hero, print overlay, and favicon
+- Logo bible entry created documenting tfp-logo-pdf4.png (1635×2037px) and usage locations
+- Chrome Claude audit initiated: Pass 1 (Aventura scroll inventory) complete, Pass 2 in progress
+- Video hosting solution identified: Cloudflare R2 via MCP for hero video integration
+- Sidearm photo saved in build/hero_photo_old.txt for future second photo break section
+- Pages affected: kleos/clients.md, changelog.md
+
 ## March 22, 2026 (PSO Session)
 - Supabase startup queries reduced from 7,503 to 5 (lazy loading architecture)
 - 1,204 waterfowl harvest records imported from 3 seasons of spreadsheet data
