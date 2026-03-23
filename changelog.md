@@ -3,6 +3,19 @@
 
 ---
 
+## March 23, 2026 (TFP Visual Overhaul)
+- Chrome Claude 3-pass visual audit completed (Aventura scroll inventory, TFP improvement map, scroll interaction catalog)
+- 28 total fixes applied across 3 phases (logo, typography, background variety, scroll interactions)
+- Phase 1 (10 fixes): Transparent nav logo (removebg.png), section labels bumped to 14px with gold rule prefix, service card titles to 19px, past performance/testimonial/qualification/vendor strip/hero credential/blog text all scaled up
+- Phase 2 (8 fixes): Vendor strip distinct background tone, about section warm radial glow, testimonials recessed darker navy, qualifications faint grid pattern, blog section inverted to warm cream/light background, footer near-black, photo break heading text shadow, footer centered Spartan helmet logo at 35% opacity
+- Phase 3 (10 fixes): Hero photo parallax, vendor badge staggered slide-in, about section line-by-line text reveal, service card scale-up activation, photo break horizontal pan, past performance radar-ping dots, testimonial quote-mark fade-settle, qualification checkmark scale animation, blog card staggered depth parallax, footer gold line expansion reveal
+- Logo bible established: white-on-transparent helmet for nav (removebg.png), black-on-transparent for print (trans.png), gray shield for footer (black helmet gray shield trans.png)
+- Two commercial videos identified for hero integration (AM_I_DREAMING.MP4 landscape, LEVELUP.MOV portrait)
+- Video hero plan finalized: Option C — tactical footage plays once, ambient particle loop takes over. Cloudflare R2 hosting identified as delivery method
+- FFmpeg compression spec defined: 7-second clips, 1280px wide, CRF 28, no audio, under 5MB each
+- Phases 4 (video integration) and 5 (second photo break) queued for next session
+- Pages affected: kleos/clients.md, changelog.md
+
 ## March 22, 2026 (TFP Session — Evening)
 - TFP website V2 fully redesigned and deployed to Railway (taskforceprotection-production.up.railway.app)
 - Aventura-inspired cinematic scroll redesign launched with real client data
