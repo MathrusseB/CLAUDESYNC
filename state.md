@@ -19,7 +19,7 @@
 ## Quick Numbers
 - Kleos confirmed revenue: $500
 - Kleos pending: $4,000 (TFP, email sent)
-- Kleos pipeline: $41,000–$75,000
+- Kleos pipeline: $41,000–$76,500
 - Calamityville revenue: $0 (pre-product)
 - Calamityville funding needed: $1,500–$3,000 (IP attorney) then $0 for prototype
 
@@ -28,7 +28,7 @@
 2. Open business bank account, deposit $500
 3. Register Calamityville + Kleos as d/b/a ($35 each)
 4. Wait for Bo's reply on TFP ($4,000)
-5. Wait for Common Ground Coffee response (cold pitch sent 3/24)
+5. Common Ground Coffee — meeting to be scheduled (Stacy responded, print proposal at Staples, F&B vertical must go live on insights hub first)
 6. PSG pitch email to Stephen (next week)
 7. Build Calamityville browser prototype (Session 1: Data Pipeline)
 8. Find IP attorney for Calamityville provisional patent + trademark

@@ -3,19 +3,23 @@
 
 ---
 
-## March 24, 2026 (Common Ground Coffee — Mobile/Landscape Fixes, KIN Integration, Cold Pitch)
+## March 24, 2026 (Common Ground Coffee — Full Session)
 - Dockerfile + Caddyfile created for Railway deployment (Caddy Alpine, port 8080)
-- Mobile hero fixes: stray filename text removed, title overflow fixed (clamp override added), hero layout switched from absolute to relative positioning on mobile, hours row repositioned
-- Cursor ring lerp factor changed from .12 to .25 (snappier trail)
-- Landscape phone fix: isMobile now detects (pointer: coarse) + innerHeight < 500; new CSS media query mirrors mobile layout for landscape phones
-- KIN blog infrastructure added: three-tier feed fallback (central → local → embedded seed), blog.json with 3 seed articles tagged food-beverage, blog strip inside Reviews panel
+- Mobile hero fixes: stray filename text removed, title overflow fixed, hero layout absolute → relative, hours row repositioned
+- Cursor ring lerp factor .12 → .25
+- Landscape phone fix: isMobile detects (pointer: coarse) + innerHeight < 500; new CSS media query for landscape phones
+- KIN blog infrastructure: three-tier feed fallback, blog.json with 3 seed articles tagged food-beverage, blog strip inside Reviews panel
 - Footer attribution standardized to "Built by Kleos." with link
-- Dockerfile updated to serve blog.json
-- Cold pitch email sent to fscommongrounds@gmail.com — $1,500 full package (site + 90 days SEO), lighter options mentioned, asked for in-person coffee meeting
-- Facebook DM sent to Common Ground page as follow-up nudge
-- Common Ground pricing: $1,500 with 90 days SEO (full), lighter packages available
-- Rules 031-033 confirmed in Holy Text (landscape detection, blog at build time, footer attribution)
-- Pages affected: kleos/clients.md, changelog.md, revenue.md
+- Cold pitch email sent to fscommongrounds@gmail.com — $1,500 base, lighter options mentioned
+- Facebook DM sent as follow-up — Stacy Racy responded same morning, Wayne saw email night before, meeting to be scheduled
+- Wheel handler rewritten: accumulator-based delta for touchpad compatibility, cooldown only after navigation fires, deltaMode normalization
+- Cursor performance: dot/ring/label switched from left/top to transform:translate() (GPU-composited, eliminates layout recalc per frame), will-change:transform added
+- Food & Beverage vertical handoff created for Kleos insights hub (3 central feed articles + 3 CG seed article pages)
+- Full printed proposal document built (docx, coil-bind ready): 3-tier pricing, cover page matching site design
+- Meeting prep study sheet created covering business improvements beyond the website
+- Pricing finalized: Tier 1 $1,500 (site only), Tier 2 $2,500 + $150/mo (site + cleanup + 90 days SEO), Tier 3 $3,500 + $250/mo (full partnership)
+- Annual maintenance discount: $1,650/yr (Tier 2), $2,750/yr (Tier 3)
+- Pages affected: kleos/clients.md, kleos/pipeline.md, revenue.md, changelog.md, rules.md
 
 ## March 24, 2026 (TFP Phase 4 — Video + Scroll Engine)
 - Hero video integration complete: 12.2s full commercial (LEVELUP.MOV) compressed to 4.63MB, hosted on Cloudflare R2, loops endlessly in hero right panel with autoplay fallback

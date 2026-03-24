@@ -12,6 +12,7 @@ These rules apply to ALL projects under RanchRock. Every Claude instance must fo
 - 013: Two-audience architecture — institutional buyers get hard data first.
 - 026: Nav elements must use discrete background states, not semi-transparent compositing.
 - 027: Study reference sites by reading source code, not just screenshots.
+- 044: Every Kleos client proposal must be a printed document matching the client site's design language (colors, typography feel, tone). Coil-bound at Staples. Slide it across the table.
 
 ## Content
 - 011: Every blog article must contain breadcrumbs (harvestable data points for KIN).
@@ -35,6 +36,8 @@ These rules apply to ALL projects under RanchRock. Every Claude instance must fo
 - 031: isMobile must account for touch devices in landscape (pointer: coarse + height check).
 - 035: feed.json schema is LOCKED (title, tag, tags[], excerpt, date, slug, author, url).
 - 037: Always deploy _headers file with CORS rules for feed.json on Cloudflare.
+- 042: Wheel handlers must accumulate delta for touchpad compatibility. Never set cooldown before confirming navigation threshold is met.
+- 043: Custom cursors must use transform:translate() not left/top. Add will-change:transform. left/top triggers layout recalc every frame; transform is GPU-composited.
 
 ## Process
 - 008: Claude architects. Chrome Claude builds.
