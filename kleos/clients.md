@@ -14,7 +14,7 @@
 - **Owner:** Bo Conger (Brandon Conger legal name)
 - **Vertical:** Security & Protection
 - **Tier:** Standard | **Price:** $4,000 (email sent, awaiting reply)
-- **Status:** ✅ V2 LIVE on Railway, five visual patches applied, Chrome Claude scroll audit in progress
+- **Status:** ✅ V2 LIVE on Railway, GSAP/Lenis scroll engine, video hero (R2 CDN), 40+ fixes applied, Phase 5 (second photo break) queued
 - **KIN:** blog.json (5 articles, tagged security+tactical), feed operational
 - **Monthly:** $175/mo after 90-day included period
 - **Repo:** github.com/MathrusseB/TaskForceProtection (private)
