@@ -29,11 +29,12 @@
 3. Register Calamityville + Kleos as d/b/a ($35 each)
 4. Wait for Bo's reply on TFP ($4,000)
 5. Common Ground Coffee — meeting to be scheduled (Stacy responded, print proposal at Staples, F&B vertical must go live on insights hub first)
-6. Build Calamityville browser prototype (Session 1: Data Pipeline)
-7. Find IP attorney for Calamityville provisional patent + trademark
-8. Execute CC_OUTFITTING_LOG_REDESIGN_AND_AUDIT_FIXES.md (12 items)
-9. Build Daily Visit Diary module (spec complete, CC prompt needed)
-10. Complete print output audit and fixes (Pass 4)
+6. PSG pitch email to Stephen (next week)
+7. Build Calamityville browser prototype (Session 1: Data Pipeline)
+8. Find IP attorney for Calamityville provisional patent + trademark
+9. Execute CC_OUTFITTING_LOG_REDESIGN_AND_AUDIT_FIXES.md (12 items)
+10. Build Daily Visit Diary module (spec complete, CC prompt needed)
+11. Complete print output audit and fixes (Pass 4)
 
 ## Relevant Pages
 - Corporate/legal details → legal.md

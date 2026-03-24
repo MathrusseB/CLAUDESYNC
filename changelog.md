@@ -21,6 +21,21 @@
 - Annual maintenance discount: $1,650/yr (Tier 2), $2,750/yr (Tier 3)
 - Pages affected: kleos/clients.md, kleos/pipeline.md, revenue.md, changelog.md, rules.md
 
+## March 24, 2026 (TFP Phase 4 — Video + Scroll Engine)
+- Hero video integration complete: 12.2s full commercial (LEVELUP.MOV) compressed to 4.63MB, hosted on Cloudflare R2, loops endlessly in hero right panel with autoplay fallback
+- Cloudflare R2 enabled and bucket created (tfp-assets) for video CDN hosting
+- GSAP 3.12.5 + ScrollTrigger installed — replaced basic IntersectionObserver reveal system with scroll-proportional animations
+- Lenis smooth scroll installed (resolved ESM/UMD loading issue, switched to IIFE build)
+- All gsap.from() converted to gsap.fromTo() with explicit end states after Chrome Claude identified disappearing card bug (double gsap.from() race condition)
+- Clip-path wipe-up transitions added to experience and qualifications sections (reversed to top-down reveal)
+- Hero parallax (scrub-linked) and image scale-settle animations added
+- Split-line heading reveals added for section titles
+- Definitive logo deployed: tfp-icon-black-transparent.png (extracted from logo.com SVG, true RGBA transparency) — nav (42px, CSS invert), footer (100px, CSS invert), print (120px, no filter)
+- Nav logo text changed from "Private Security" to "Task Force Protection"
+- Chrome Claude performed two targeted audits identifying 12 bugs, all resolved
+- Video compression pipeline established: FFmpeg CRF 28, 1080px wide, no audio, portrait orientation
+- Phase 5 (second photo break) still queued
+- Pages affected: kleos/clients.md, changelog.md
 ## March 23, 2026 (TFP Visual Overhaul)
 - Chrome Claude 3-pass visual audit completed (Aventura scroll inventory, TFP improvement map, scroll interaction catalog)
 - 28 total fixes applied across 3 phases (logo, typography, background variety, scroll interactions)
@@ -32,7 +47,6 @@
 - Video hero plan finalized: Option C — tactical footage plays once, ambient particle loop takes over. Cloudflare R2 hosting identified as delivery method
 - FFmpeg compression spec defined: 7-second clips, 1280px wide, CRF 28, no audio, under 5MB each
 - Phases 4 (video integration) and 5 (second photo break) queued for next session
-- Pages affected: kleos/clients.md, changelog.md
 
 ## March 22, 2026 (TFP Session — Evening)
 - TFP website V2 fully redesigned and deployed to Railway (taskforceprotection-production.up.railway.app)
