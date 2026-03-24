@@ -1,5 +1,5 @@
 # STATE OF RANCHROCK
-**Last Updated:** March 22, 2026
+**Last Updated:** March 24, 2026
 
 > Master snapshot. Fetch this first, then fetch only the pages you need.
 
@@ -19,7 +19,7 @@
 ## Quick Numbers
 - Kleos confirmed revenue: $500
 - Kleos pending: $4,000 (TFP, email sent)
-- Kleos pipeline: $39,500–$73,500
+- Kleos pipeline: $41,000–$75,000
 - Calamityville revenue: $0 (pre-product)
 - Calamityville funding needed: $1,500–$3,000 (IP attorney) then $0 for prototype
 
@@ -28,12 +28,13 @@
 2. Open business bank account, deposit $500
 3. Register Calamityville + Kleos as d/b/a ($35 each)
 4. Wait for Bo's reply on TFP ($4,000)
-5. PSG pitch email to Stephen (next week)
-6. Build Calamityville browser prototype (Session 1: Data Pipeline)
-7. Find IP attorney for Calamityville provisional patent + trademark
-8. Execute CC_OUTFITTING_LOG_REDESIGN_AND_AUDIT_FIXES.md (12 items)
-9. Build Daily Visit Diary module (spec complete, CC prompt needed)
-10. Complete print output audit and fixes (Pass 4)
+5. Wait for Common Ground Coffee response (cold pitch sent 3/24)
+6. PSG pitch email to Stephen (next week)
+7. Build Calamityville browser prototype (Session 1: Data Pipeline)
+8. Find IP attorney for Calamityville provisional patent + trademark
+9. Execute CC_OUTFITTING_LOG_REDESIGN_AND_AUDIT_FIXES.md (12 items)
+10. Build Daily Visit Diary module (spec complete, CC prompt needed)
+11. Complete print output audit and fixes (Pass 4)
 
 ## Relevant Pages
 - Corporate/legal details → legal.md

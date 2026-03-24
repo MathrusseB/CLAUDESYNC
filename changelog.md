@@ -3,6 +3,20 @@
 
 ---
 
+## March 24, 2026 (Common Ground Coffee — Mobile/Landscape Fixes, KIN Integration, Cold Pitch)
+- Dockerfile + Caddyfile created for Railway deployment (Caddy Alpine, port 8080)
+- Mobile hero fixes: stray filename text removed, title overflow fixed (clamp override added), hero layout switched from absolute to relative positioning on mobile, hours row repositioned
+- Cursor ring lerp factor changed from .12 to .25 (snappier trail)
+- Landscape phone fix: isMobile now detects (pointer: coarse) + innerHeight < 500; new CSS media query mirrors mobile layout for landscape phones
+- KIN blog infrastructure added: three-tier feed fallback (central → local → embedded seed), blog.json with 3 seed articles tagged food-beverage, blog strip inside Reviews panel
+- Footer attribution standardized to "Built by Kleos." with link
+- Dockerfile updated to serve blog.json
+- Cold pitch email sent to fscommongrounds@gmail.com — $1,500 full package (site + 90 days SEO), lighter options mentioned, asked for in-person coffee meeting
+- Facebook DM sent to Common Ground page as follow-up nudge
+- Common Ground pricing: $1,500 with 90 days SEO (full), lighter packages available
+- Rules 031-033 confirmed in Holy Text (landscape detection, blog at build time, footer attribution)
+- Pages affected: kleos/clients.md, changelog.md, revenue.md
+
 ## March 24, 2026 (TFP Phase 4 — Video + Scroll Engine)
 - Hero video integration complete: 12.2s full commercial (LEVELUP.MOV) compressed to 4.63MB, hosted on Cloudflare R2, loops endlessly in hero right panel with autoplay fallback
 - Cloudflare R2 enabled and bucket created (tfp-assets) for video CDN hosting

@@ -28,10 +28,13 @@
 ## Common Ground Coffee
 - **Owner:** Wayne & Stacy Racy
 - **Vertical:** Food & Beverage
-- **Tier:** Community | **Price:** TBD
-- **Status:** ✅ LIVE on Railway, KIN-integrated
-- **KIN:** blog.json (3 articles, tagged food-beverage)
+- **Tier:** Community | **Price:** $1,500 full (site + 90 days SEO), lighter options available
+- **Status:** ✅ LIVE on Railway, KIN-integrated, cold pitch sent
+- **KIN:** blog.json (3 articles, tagged food-beverage), three-tier feed operational
+- **Outreach:** Email sent to fscommongrounds@gmail.com + Facebook DM sent 3/24/26
+- **Domain:** fscommonground.com (not yet pointed at Railway)
 - **Repo:** github.com/MathrusseB/Common-Ground-Coffee (private)
+- **Next:** Wait for response. If interested, schedule in-person coffee meeting.
 
 ## MDS (Missouri Disabled Sportsmen)
 - **Vertical:** Firearms/Nonprofit
