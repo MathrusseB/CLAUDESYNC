@@ -3,6 +3,24 @@
 
 ---
 
+## March 24, 2026 (Common Ground Coffee — Full Session)
+- Dockerfile + Caddyfile created for Railway deployment (Caddy Alpine, port 8080)
+- Mobile hero fixes: stray filename text removed, title overflow fixed, hero layout absolute → relative, hours row repositioned
+- Cursor ring lerp factor .12 → .25
+- Landscape phone fix: isMobile detects (pointer: coarse) + innerHeight < 500; new CSS media query for landscape phones
+- KIN blog infrastructure: three-tier feed fallback, blog.json with 3 seed articles tagged food-beverage, blog strip inside Reviews panel
+- Footer attribution standardized to "Built by Kleos." with link
+- Cold pitch email sent to fscommongrounds@gmail.com — $1,500 base, lighter options mentioned
+- Facebook DM sent as follow-up — Stacy Racy responded same morning, Wayne saw email night before, meeting to be scheduled
+- Wheel handler rewritten: accumulator-based delta for touchpad compatibility, cooldown only after navigation fires, deltaMode normalization
+- Cursor performance: dot/ring/label switched from left/top to transform:translate() (GPU-composited, eliminates layout recalc per frame), will-change:transform added
+- Food & Beverage vertical handoff created for Kleos insights hub (3 central feed articles + 3 CG seed article pages)
+- Full printed proposal document built (docx, coil-bind ready): 3-tier pricing, cover page matching site design
+- Meeting prep study sheet created covering business improvements beyond the website
+- Pricing finalized: Tier 1 $1,500 (site only), Tier 2 $2,500 + $150/mo (site + cleanup + 90 days SEO), Tier 3 $3,500 + $250/mo (full partnership)
+- Annual maintenance discount: $1,650/yr (Tier 2), $2,750/yr (Tier 3)
+- Pages affected: kleos/clients.md, kleos/pipeline.md, revenue.md, changelog.md, rules.md
+
 ## March 23, 2026 (TFP Visual Overhaul)
 - Chrome Claude 3-pass visual audit completed (Aventura scroll inventory, TFP improvement map, scroll interaction catalog)
 - 28 total fixes applied across 3 phases (logo, typography, background variety, scroll interactions)
