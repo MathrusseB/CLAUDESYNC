@@ -1,5 +1,5 @@
 # RANCHROCK LEGAL STATUS
-**Last Updated:** March 22, 2026
+**Last Updated:** March 24, 2026
 
 ## Entity
 - **Name:** RanchRock Holdings LLC
@@ -13,10 +13,20 @@
 - "Calamityville" — $35, county clerk
 - "Kleos" / "Kleos Design" — $35, county clerk
 
+## Iglesia Cristiana Satánica (ICS)
+- **EIN:** 41-5030570 — assigned 3/21/2026
+- **Registered Agent:** Missouri Registered Agent LLC — updated 3/21/2026
+- **Reimbursable Expenses to Date:** $102.75 — pending bank account to reimburse
+- **Next Legal Steps (in order):** Mercury bank account → Bylaws → Form 1023-EZ → Satanicus Media LLC
+
+## Kleos Design Studio LLC
+- **Operating Agreement:** Drafted — not yet filed — Kansas attorney review needed before relying on it
+
 ## Documents Drafted
-- Operating Agreement v1.0 (reviewed, ready to sign)
+- RanchRock Operating Agreement v1.0 (reviewed, ready to sign)
 - IP Assignment Agreement (standalone Exhibit B)
 - Both include all v2 fixes: proper Kansas statute reference, $500 capitalization, maintenance of limited liability provisions, counterparts/e-signatures/waiver clauses, registered agent placeholder
+- Kleos Design Studio LLC Operating Agreement — drafted, pending Kansas attorney review
 
 ## IP Assigned to RanchRock
 - All Calamityville IP (including predecessor names True Crime GO, MurderHouse GO!)

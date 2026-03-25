@@ -11,10 +11,17 @@
 - IP Assignment: DRAFTED (standalone Exhibit B)
 - Bank Account: NOT YET OPENED
 - Filing cost: $160 Kansas SOS + $35/dba x2 = $230 total
+- **Iglesia Cristiana Satánica** — EIN: 41-5030570 — issued 3/21/2026
+- **Kleos Design Studio LLC** — Operating Agreement drafted — needs Kansas attorney review before filing
 
 ## Operating Brands (d/b/a under RanchRock)
 - **Calamityville** — location-based historical event discovery game — CONCEPT PHASE
 - **Kleos Design** — web design studio + KIN content network — OPERATIONAL, 2 live sites
+- **Iglesia Cristiana Satánica (ICS)** — religious nonprofit — EIN obtained, v4 site in active development
+  - ICS site v4: github.com/MathrusseB/ICSVersion2, deployed to Railway (superb-kindness-production-279a.up.railway.app)
+  - satanicus.org: countdown page live via Cloudflare Pages (Countdown branch)
+  - Facebook page live — first post up — organic Latin American engagement confirmed
+  - WhatsApp Business: setup pending — Google Voice blocked by WhatsApp — prepaid SIM needed
 
 ## Quick Numbers
 - Kleos confirmed revenue: $500
@@ -40,5 +47,6 @@
 - All rules → rules.md
 - Kleos details → kleos/status.md, kleos/clients.md
 - Calamityville details → calamityville/concept.md, calamityville/spec.md
+- ICS details → ics/status.md
 - Revenue breakdown → revenue.md
 - What changed recently → changelog.md
