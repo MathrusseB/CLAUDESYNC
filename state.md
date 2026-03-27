@@ -1,5 +1,5 @@
 # STATE OF RANCHROCK
-**Last Updated:** March 24, 2026
+**Last Updated:** March 27, 2026
 
 > Master snapshot. Fetch this first, then fetch only the pages you need.
 
@@ -31,17 +31,20 @@
 - Calamityville funding needed: $1,500–$3,000 (IP attorney) then $0 for prototype
 
 ## Highest Priority Items
-1. File RanchRock Holdings LLC with Kansas ($160)
-2. Open business bank account, deposit $500
-3. Register Calamityville + Kleos as d/b/a ($35 each)
-4. Wait for Bo's reply on TFP ($4,000)
-5. Common Ground Coffee — meeting to be scheduled (Stacy responded, print proposal at Staples, F&B vertical must go live on insights hub first)
-6. PSG pitch email to Stephen (next week)
-7. Build Calamityville browser prototype (Session 1: Data Pipeline)
-8. Find IP attorney for Calamityville provisional patent + trademark
-9. Execute CC_OUTFITTING_LOG_REDESIGN_AND_AUDIT_FIXES.md (12 items)
-10. Build Daily Visit Diary module (spec complete, CC prompt needed)
-11. Complete print output audit and fixes (Pass 4)
+1. TFP Cordish capabilities presentation — finalize and deliver HTML briefing
+2. Brian to select font for TFP pitch materials
+3. iOS Safari nav transparency fix — push across all Kleos sites
+4. TFP Phase 5 — second photo break section
+5. Wait for Bo's reply on TFP ($4,000)
+6. Common Ground Coffee — schedule meeting with Wayne & Stacy (print proposal at Staples first, F&B vertical must go live on insights hub before meeting)
+7. PSG pitch email to Stephen
+8. File RanchRock Holdings LLC with Kansas ($160)
+9. Open business bank account, deposit $500
+10. Register Calamityville + Kleos as d/b/a ($35 each)
+11. Build Calamityville browser prototype (Session 1: Data Pipeline)
+12. Find IP attorney for Calamityville provisional patent + trademark
+13. Execute CC_OUTFITTING_LOG_REDESIGN_AND_AUDIT_FIXES.md (12 items)
+14. Build Daily Visit Diary module (spec complete, CC prompt needed)
 
 ## Relevant Pages
 - Corporate/legal details → legal.md
