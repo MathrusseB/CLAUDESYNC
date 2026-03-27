@@ -11,21 +11,18 @@
 - **Repo:** github.com/MathrusseB/ICSVersion2
 - **Deployment:** Railway — superb-kindness-production-279a.up.railway.app
 - **Status:** 7 sections built, deployed to Railway, mobile polish in progress
-- **Remaining fixes:** Mobile/desktop experience split shipped — sticky scroll gated to 1024px+ desktop only, mobile breakpoint corrected from 768px to 1024px, doctrina height void fixed. Mobile now flows naturally with no sticky scroll.
-- **satanicus.org:** Still serving countdown page from Countdown branch via Cloudflare Pages
+## Recent Completed Work
+- Mobile/desktop experience split — sticky scroll gated
+  to desktop (>= 1024px) only, mobile breakpoint corrected
+  to 1024px, doctrina height void fixed
+- Sermones section rebuilt — scroll-pinned spotlight on
+  desktop, staggered reveal on mobile, modal preserved
+- Sermones audit fixes — header bleed resolved, CTA
+  converted to button, crossfade 0.5s, dot contrast
+  improved, mobile stagger hardcoded via nth-child delays
 
-## Assets in Repo
-- cesarsuit.png, cesarsouthamerican.png, praise.png
-- soranowatermark1.MOV
-- baph1.mov, baph2.mov
-- ics-3-24-26-1.MOV, ics-3-24-26-2.MOV, ics-3-24-26-3.MOV
-
-## Facebook
-- 3 posts live, ~930 followers
-- First organic Colombian engagement confirmed
-
-## WhatsApp Business
-- Setup pending — Google Voice blocked by WhatsApp — prepaid SIM needed
-
-## Walpurgis Critical Path
-Mercury bank → Stripe → Mailchimp → point satanicus.org to v4 Railway
+## Current Status
+No known open bugs. Site is stable on desktop and mobile.
+Next: BC visual QA on sermones fixes, then Walpurgis
+critical path (Mailchimp, Stripe, point satanicus.org
+to Railway).
