@@ -14,8 +14,13 @@
 - **Owner:** Bo Conger (Brandon Conger legal name)
 - **Vertical:** Security & Protection
 - **Tier:** Standard | **Price:** $4,000 (email sent, awaiting reply)
-- **Status:** ✅ V2 LIVE on Railway, GSAP/Lenis scroll engine, video hero (R2 CDN), 40+ fixes applied, Phase 5 (second photo break) queued
+- **Status:** ✅ V2 LIVE on Railway, GSAP/Lenis scroll engine, video hero (R2 CDN), 40+ fixes applied, Phase 5 (second photo break) QUEUED
 - **KIN:** blog.json (5 articles, tagged security+tactical), feed operational
+- **Cordish Pitch — Proposal:** Rebuilt as true .docx via Node.js docx library. Grayscale Spartan helmet logo embedded (240×240px cover, 80×80px signature). Current and correct.
+- **Cordish Pitch — One-Sheet:** Current.
+- **Cordish Pitch — Capabilities Presentation:** Scoped as ~60–90s self-playing HTML briefing (FBI aesthetic, animated text reveals, TFP gold/dark navy, Pexels/Pixabay stock footage). In progress — not delivered.
+- **Cordish Pitch — Font Selection:** PENDING. Brian has not yet chosen final typeface for pitch materials.
+- **iOS Safari nav fix:** QUEUED (affects all Kleos sites)
 - **Monthly:** $175/mo after 90-day included period
 - **Repo:** github.com/MathrusseB/TaskForceProtection (private)
 

@@ -3,6 +3,17 @@
 
 ---
 
+## March 27, 2026 (TFP Cordish Pitch Materials)
+- TFP Proposal rebuilt from scratch using Node.js docx library — project-persisted file was a text/markdown export, not a true .docx binary
+- First logo upload confirmed corrupted (solid black 800×800, zero pixel variation via ImageMagick analysis); second upload (grayscale Spartan helmet) confirmed valid and embedded
+- Logo placed at 240×240px on cover page, 80×80px in closing signature block
+- Cordish capabilities presentation scoped: ~60–90 second self-playing HTML briefing, FBI-briefing aesthetic, animated text reveals, TFP gold/dark navy palette, stock footage from Pexels/Pixabay
+- Presentation format landed on HTML auto-play — not finalized or delivered by session end
+- Font selection for TFP pitch materials remains pending — Brian's choice, not yet made
+- iOS Safari nav transparency fix still queued across all Kleos sites
+- TFP Phase 5 (second photo break) still queued
+- Pages affected: kleos/clients.md, changelog.md, state.md
+
 ## March 24, 2026 (Common Ground Coffee — Full Session)
 - Dockerfile + Caddyfile created for Railway deployment (Caddy Alpine, port 8080)
 - Mobile hero fixes: stray filename text removed, title overflow fixed, hero layout absolute → relative, hours row repositioned
