@@ -11,7 +11,7 @@
 - **Repo:** github.com/MathrusseB/ICSVersion2
 - **Deployment:** Railway — superb-kindness-production-279a.up.railway.app
 - **Status:** 7 sections built, deployed to Railway, mobile polish in progress
-- **Remaining fixes:** Mobile sticky void, mobile hero collapse
+- **Remaining fixes:** Mobile/desktop experience split shipped — sticky scroll gated to 1024px+ desktop only, mobile breakpoint corrected from 768px to 1024px, doctrina height void fixed. Mobile now flows naturally with no sticky scroll.
 - **satanicus.org:** Still serving countdown page from Countdown branch via Cloudflare Pages
 
 ## Assets in Repo
