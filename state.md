@@ -36,7 +36,7 @@
 3. iOS Safari nav transparency fix — push across all Kleos sites
 4. TFP Phase 5 — second photo break section
 5. Wait for Bo's reply on TFP ($4,000)
-6. Common Ground Coffee — schedule meeting with Wayne & Stacy (print proposal at Staples first, F&B vertical must go live on insights hub before meeting)
+6. Common Ground Coffee — Wayne responded, meeting being scheduled for today. Proposal printed. Close on a tier.
 7. PSG follow-up email sent (one week, no response) — awaiting reply
 8. File RanchRock Holdings LLC with Kansas ($160)
 9. Open business bank account, deposit $500
