@@ -3,6 +3,50 @@
 
 ---
 
+## March 24, 2026 (Common Ground Coffee — Mobile/Landscape Fixes, KIN Integration, Cold Pitch)
+- Dockerfile + Caddyfile created for Railway deployment (Caddy Alpine, port 8080)
+- Mobile hero fixes: stray filename text removed, title overflow fixed (clamp override added), hero layout switched from absolute to relative positioning on mobile, hours row repositioned
+- Cursor ring lerp factor changed from .12 to .25 (snappier trail)
+- Landscape phone fix: isMobile now detects (pointer: coarse) + innerHeight < 500; new CSS media query mirrors mobile layout for landscape phones
+- KIN blog infrastructure added: three-tier feed fallback (central → local → embedded seed), blog.json with 3 seed articles tagged food-beverage, blog strip inside Reviews panel
+- Footer attribution standardized to "Built by Kleos." with link
+- Dockerfile updated to serve blog.json
+- Cold pitch email sent to fscommongrounds@gmail.com — $1,500 full package (site + 90 days SEO), lighter options mentioned, asked for in-person coffee meeting
+- Facebook DM sent to Common Ground page as follow-up nudge
+- Common Ground pricing: $1,500 with 90 days SEO (full), lighter packages available
+- Rules 031-033 confirmed in Holy Text (landscape detection, blog at build time, footer attribution)
+- Pages affected: kleos/clients.md, changelog.md, revenue.md
+
+---
+
+## March 31, 2026 (PSG Pitch + PSG Site Completion)
+
+**PSG site fully completed:**
+- Full 6-chunk mobile audit completed across all 10 pages
+- Root cause identified and resolved: CSS media queries targeting class names
+  not present on HTML elements — fixed by adding missing classes to HTML
+- All horizontal overflow resolved (previously up to 357px on portal page)
+- Design pass completed: three tonal zones introduced (--bg-surface #111318),
+  card backgrounds lifted, gold accent system raised from ~15% to ~35% utilization
+- Specific gold fixes: SVG opacity 0.1→0.2, section watermarks 0.07→0.13,
+  card borders 0.08→0.22, dividers 0.18→0.28, dropdown shadow added,
+  ambient hero glow added, ghost CTA lifted to ivory
+- Global cursor fix applied: universal * { user-select: none } reset with
+  explicit restoration on input/textarea only
+- Site scored 4/10 mobile at audit start, structurally complete at finish
+
+**PSG pitch materials completed:**
+- Outreach email drafted (two versions, Version 1 selected)
+- Follow-up email drafted after one week no response
+- Brian Mathrusse resume built (one page, hybrid format, Georgia/Arial)
+- Railway deployment plan documented and handed off
+- KCN Master Reference file created (KLEOS-KCN-REFERENCE.md)
+- PSG project summary created for master archive
+
+**Pages affected:** kleos/clients.md, kleos/pipeline.md, changelog.md, state.md
+
+---
+
 ## March 27, 2026 (TFP Cordish Pitch Materials)
 - TFP Proposal rebuilt from scratch using Node.js docx library — project-persisted file was a text/markdown export, not a true .docx binary
 - First logo upload confirmed corrupted (solid black 800×800, zero pixel variation via ImageMagick analysis); second upload (grayscale Spartan helmet) confirmed valid and embedded

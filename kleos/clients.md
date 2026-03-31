@@ -1,5 +1,5 @@
 # KLEOS CLIENTS
-**Last Updated:** March 22, 2026
+**Last Updated:** March 31, 2026
 
 ## Allegiance Armory
 - **Owner:** Cale Swarnes
@@ -27,26 +27,21 @@
 ## PSG (Private Staff Group)
 - **Vertical:** Private Service (UHNW staffing)
 - **Tier:** Premium | **Price:** $4,500–$6,000
-- **Status:** Pitch docs complete, engagement letter ready, email to Stephen next week
+- **Status:** Site fully complete (10 pages, mobile audit passed, gold system at ~35%). Outreach email sent (Version 1). Follow-up sent after one week — no response, awaiting reply.
+- **Site:** 6-chunk mobile audit done, all overflow resolved, three tonal zones, global cursor fix applied
+- **Pitch Materials:** Outreach email (v1 selected), follow-up email, Brian resume (1-page hybrid), Railway deployment plan, KLEOS-KCN-REFERENCE.md, PSG project summary
 - **KIN Role:** Founding Premium Member #1
 
 ## Common Ground Coffee
-- **Owner:** Wayne & Stacy Racy (took over from Fort Scott Church of the Nazarene, May 2025)
+- **Owner:** Wayne & Stacy Racy
 - **Vertical:** Food & Beverage
-- **Tier:** Community
-- **Pricing (3 tiers):**
-  - Tier 1 — The Site: $1,500 one-time (website + domain + 3 seed articles)
-  - Tier 2 — The Cleanup: $2,500 one-time + $150/mo after 90 days (+ Google Business, listings, reviews, 2 articles/mo)
-  - Tier 3 — The Partnership: $3,500 one-time + $250/mo after 90 days (+ Loading Dock marketing, tourism, review gen, 4 articles/mo)
-  - Annual rates: $1,650/yr (Tier 2), $2,750/yr (Tier 3)
-- **Status:** ✅ LIVE on Railway, KIN-integrated, cold pitch sent, RESPONSE RECEIVED
-- **Outreach:** Email + FB DM sent 3/24/26. Stacy responded same morning — Wayne saw email night before, they will schedule a meeting.
+- **Tier:** Community | **Price:** $1,500 full (site + 90 days SEO), lighter options available
+- **Status:** ✅ LIVE on Railway, KIN-integrated, cold pitch sent
 - **KIN:** blog.json (3 articles, tagged food-beverage), three-tier feed operational
+- **Outreach:** Email sent to fscommongrounds@gmail.com + Facebook DM sent 3/24/26
 - **Domain:** fscommonground.com (not yet pointed at Railway)
 - **Repo:** github.com/MathrusseB/Common-Ground-Coffee (private)
-- **Proposal:** Printed docx ready (3-tier pricing, cover page matching site design, coil-bind for Staples)
-- **Next:** Wait for meeting date. Print proposal at Staples. F&B vertical needs to go live on insights hub before meeting (seed article "Coming Soon" cards must be real links).
-- **Technical pending:** Touchpad wheel fix + cursor GPU performance fix queued for CC
+- **Next:** Wait for response. If interested, schedule in-person coffee meeting.
 
 ## MDS (Missouri Disabled Sportsmen)
 - **Vertical:** Firearms/Nonprofit
