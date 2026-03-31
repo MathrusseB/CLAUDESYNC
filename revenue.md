@@ -19,7 +19,7 @@
 | PSG (Private Staff Group) | Kleos | $4,500–$6,000 | Pitch next week |
 | MDS (MO Disabled Sportsmen) | Kleos | $1,500–$2,500 | Warm lead via Cale |
 | Cale's 80 Referrals | Kleos | $30,000–$60,000 | Activates when AA ships |
-| Common Ground Coffee | Kleos | $1,500–$3,500 | Response received, meeting to be scheduled |
+| Common Ground Coffee | Kleos | $1,500 | Cold pitch sent (email + FB DM) |
 | Calamityville | Calamityville | $0 | Pre-product |
 
 **Pipeline Total (conservative): $41,000–$76,500**
