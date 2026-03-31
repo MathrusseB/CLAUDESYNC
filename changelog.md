@@ -19,6 +19,23 @@
 
 ---
 
+## March 31, 2026 (Common Ground Coffee — Wayne Responded, Meeting Today)
+- Wayne Racy responded via email: reviewed the site with Stacy, offered meeting times this week
+- Brian proposed meeting today (Monday) after 1:00 at the shop — awaiting confirmation
+- 3-tier pricing finalized and printed in coil-bound proposal:
+  - Tier 1 The Site: $1,500 (website + domain + 3 seed articles)
+  - Tier 2 The Cleanup: $2,500 + $150/mo after 90 days
+  - Tier 3 The Partnership: $3,500 + $250/mo after 90 days
+  - Annual rates: $1,650/yr (Tier 2), $2,750/yr (Tier 3)
+- Back-pocket $1,000 option (verbal only, not in printed proposal): same site + domain, Brian gets portfolio/case study rights + testimonial agreement + more prominent Kleos attribution
+- Wholesale coffee opportunity: Brian to propose supplying Maple Ranch clubhouse during hunting season — separate from Kleos deal, positions Brian as B2B customer
+- Touchpad wheel fix + cursor GPU performance fix CC prompts ready but not yet deployed
+- F&B vertical handoff doc ready but not yet executed — seed article "Coming Soon" cards still live
+- Meeting prep study sheet and printed proposal both ready
+- Pages affected: kleos/clients.md, changelog.md
+
+---
+
 ## March 31, 2026 (PSG Pitch + PSG Site Completion)
 
 **PSG site fully completed:**

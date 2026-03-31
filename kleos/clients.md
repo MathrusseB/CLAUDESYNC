@@ -33,15 +33,29 @@
 - **KIN Role:** Founding Premium Member #1
 
 ## Common Ground Coffee
-- **Owner:** Wayne & Stacy Racy
+- **Owner:** Wayne & Stacy Racy (took over from Fort Scott Church of the Nazarene, May 2025)
 - **Vertical:** Food & Beverage
-- **Tier:** Community | **Price:** $1,500 full (site + 90 days SEO), lighter options available
-- **Status:** ✅ LIVE on Railway, KIN-integrated, cold pitch sent
-- **KIN:** blog.json (3 articles, tagged food-beverage), three-tier feed operational
-- **Outreach:** Email sent to fscommongrounds@gmail.com + Facebook DM sent 3/24/26
+- **Tier:** Community
+- **Pricing (3 tiers, printed in proposal):**
+  - Tier 1 — The Site: $1,500 (website + domain + 3 seed articles, KIN Source 2 auto-populates)
+  - Tier 2 — The Cleanup: $2,500 + $150/mo after 90 days (+ Google Business, listings, reviews, Loading Dock page, 2 Source 1 articles/mo during 90 days, 1/mo ongoing)
+  - Tier 3 — The Partnership: $3,500 + $250/mo after 90 days (+ Loading Dock marketing, tourism outreach, review gen QR cards, social calendar, 4 Source 1 articles/mo during 90 days, 2/mo ongoing, quarterly reports)
+  - Annual rates: $1,650/yr (Tier 2), $2,750/yr (Tier 3)
+  - Back pocket: $1,000 verbal option (site + domain only, Brian gets portfolio rights + testimonial + prominent attribution)
+- **Status:** ✅ LIVE on Railway, KIN-integrated, MEETING BEING SCHEDULED
+- **Outreach timeline:**
+  - 3/24: Cold pitch email + Facebook DM sent
+  - 3/24: Stacy responded on Facebook within 20 min — Wayne saw email night before
+  - 3/31: Follow-up email sent
+  - 3/31: Wayne responded — offered meeting times, Brian proposed today
+- **KIN:** blog.json (3 articles, tagged food-beverage), three-tier feed operational. Seed article pages NOT YET WRITTEN ("Coming Soon" still showing).
 - **Domain:** fscommonground.com (not yet pointed at Railway)
 - **Repo:** github.com/MathrusseB/Common-Ground-Coffee (private)
-- **Next:** Wait for response. If interested, schedule in-person coffee meeting.
+- **Proposal:** Printed, coil-bound, 4 pages, 3-tier pricing table, site design language
+- **Wholesale opportunity:** Brian to propose supplying Maple Ranch clubhouse with CG coffee during hunting season (Maple Ranch expense, not Kleos)
+- **Technical pending:** Touchpad wheel fix + cursor GPU fix queued for CC (not yet deployed)
+- **Content pending:** F&B vertical handoff ready, 3 central feed articles + 3 seed article pages need to be written/deployed
+- **Next:** Attend meeting. Close on a tier. Begin work per selected package.
 
 ## MDS (Missouri Disabled Sportsmen)
 - **Vertical:** Firearms/Nonprofit
