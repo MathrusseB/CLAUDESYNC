@@ -1,5 +1,5 @@
 # KLEOS CLIENTS
-**Last Updated:** March 22, 2026
+**Last Updated:** March 31, 2026
 
 ## Allegiance Armory
 - **Owner:** Cale Swarnes
@@ -27,7 +27,9 @@
 ## PSG (Private Staff Group)
 - **Vertical:** Private Service (UHNW staffing)
 - **Tier:** Premium | **Price:** $4,500–$6,000
-- **Status:** Pitch docs complete, engagement letter ready, email to Stephen next week
+- **Status:** Site fully complete (10 pages, mobile audit passed, gold system at ~35%). Outreach email sent (Version 1). Follow-up sent after one week — no response, awaiting reply.
+- **Site:** 6-chunk mobile audit done, all overflow resolved, three tonal zones, global cursor fix applied
+- **Pitch Materials:** Outreach email (v1 selected), follow-up email, Brian resume (1-page hybrid), Railway deployment plan, KLEOS-KCN-REFERENCE.md, PSG project summary
 - **KIN Role:** Founding Premium Member #1
 
 ## Common Ground Coffee

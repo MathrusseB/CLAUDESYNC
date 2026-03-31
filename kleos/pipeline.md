@@ -1,11 +1,11 @@
 # KLEOS PIPELINE
-**Last Updated:** March 22, 2026
+**Last Updated:** March 31, 2026
 
 ## Active Deals
 | Deal | Value | Stage | Next Action |
 |------|-------|-------|-------------|
 | TFP | $4,000 | Email sent | Wait for Bo's reply |
-| PSG | $4,500–$6,000 | Pitch ready | Email Stephen next week |
+| PSG | $4,500–$6,000 | Follow-up sent | Awaiting reply from Stephen |
 
 ## Warm Leads
 | Lead | Est. Value | Source | Blocker |
