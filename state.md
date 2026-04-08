@@ -4,7 +4,7 @@
 > Master snapshot. Fetch this first, then fetch only the pages you need.
 
 ## Corporate Structure
-- **RanchRock Holdings LLC** — Kansas single-member LLC — FILING PENDING
+- **IXK Holdings LLC** — Kansas single-member LLC — FILED 04/08/2026, Business ID 10071436
 - Sole Member: Brian Mathrusse
 - Type: Holding company for all brands
 - Operating Agreement: DRAFTED (v1.0, reviewed)

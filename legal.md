@@ -2,12 +2,12 @@
 **Last Updated:** March 24, 2026
 
 ## Entity
-- **Name:** RanchRock Holdings LLC
+- **Name:** IXK Holdings LLC
 - **State:** Kansas
 - **Type:** Single-member LLC (holding company)
 - **Sole Member:** Brian Mathrusse
-- **Status:** FILING PENDING
-- **Filing Fee:** $160 (Kansas Secretary of State, online)
+- **Status:** FILED — 04/08/2026, Business ID 10071436, Certificate 20260408-508214
+- **Filing Fee:** $85 (paid)
 
 ## d/b/a Registrations Needed
 - "Calamityville" — $35, county clerk

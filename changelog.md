@@ -1,6 +1,8 @@
 # CHANGELOG
 **Most recent first. Each entry: date, what changed, which pages affected.**
 
+## April 8, 2026 — IXK Holdings LLC filed with Kansas Secretary of State. Business ID 10071436. $85 filing fee paid. Next: open bank account, deposit $500, sign operating agreement, register d/b/a names.
+
 ---
 
 ## March 24, 2026 (Common Ground Coffee — Mobile/Landscape Fixes, KIN Integration, Cold Pitch)
