@@ -1,7 +1,7 @@
-# RANCHROCK RULES
+# IXK RULES
 **Last Updated:** March 22, 2026
 
-These rules apply to ALL projects under RanchRock. Every Claude instance must follow them.
+These rules apply to ALL projects under IXK. Every Claude instance must follow them.
 
 ## Design
 - 001: No default dark backgrounds. Design for the client's audience.
@@ -57,3 +57,7 @@ These rules apply to ALL projects under RanchRock. Every Claude instance must fo
 - 039: CLAUDESYNC is the primary context delivery method. Fetch from GitHub, not the Holy Text.
 - 040: CLAUDESYNC pages are updated via CC, never by Claude directly.
 - 041: Raw GitHub URLs require branch names without forward slashes. Default branch is `main`.
+
+## Kansas-Specific
+- 042: Kansas has no d/b/a filing process. Trade names are used freely without registration.
+- 043: Kansas state trademark is $40 per name. Federal trademark through USPTO is $250-350 per class. Pursue when budget allows.

@@ -1,6 +1,6 @@
-# CLAUDESYNC — RanchRock Holdings Knowledge Base
+# CLAUDESYNC — IXK Holdings Knowledge Base
 
-This repo is a structured knowledge base for all RanchRock Holdings operations. It is read by Claude instances across multiple projects via raw GitHub URLs.
+This repo is a structured knowledge base for all IXK Holdings operations. It is read by Claude instances across multiple projects via raw GitHub URLs.
 
 ## How It Works
 

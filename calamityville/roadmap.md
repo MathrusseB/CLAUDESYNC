@@ -2,7 +2,7 @@
 **Last Updated:** March 22, 2026
 
 ## Phase 1: Foundation (Months 1–3)
-- [ ] File RanchRock Holdings LLC
+- [ ] File IXK Holdings LLC
 - [ ] Register "Calamityville" d/b/a
 - [ ] IP attorney: provisional patent + trademark search ($1,500–$3,000)
 - [ ] Build pitch deck (15–20 slides)

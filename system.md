@@ -8,7 +8,7 @@
 
 ## What CLAUDESYNC Is
 
-A structured knowledge base of markdown files on GitHub that holds the current operating state of all RanchRock Holdings projects. Claude reads from it. Claude never writes to it directly.
+A structured knowledge base of markdown files on GitHub that holds the current operating state of all IXK Holdings projects. Claude reads from it. Claude never writes to it directly.
 
 **Base URL:** `https://raw.githubusercontent.com/MathrusseB/CLAUDESYNC/claude/main/`
 
