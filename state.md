@@ -16,6 +16,7 @@
 - **Kleos Design Studio LLC** — Operating Agreement drafted — needs Kansas attorney review before filing
 
 ## Operating Brands
+- Domain: ixkholdings.com (registered)
 - **Calamityville** — location-based historical event discovery game — CONCEPT PHASE
 - **Kleos Design** — web design studio + KIN content network — OPERATIONAL, 2 live sites
 - **Iglesia Cristiana Satánica (ICS)** — religious nonprofit — EIN obtained, v4 site in active development

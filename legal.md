@@ -10,6 +10,7 @@
 - **Filing Fee:** $85 (paid)
 - **EIN:** Issued 04/08/2026
 - **Bank Account:** Mercury (opened 04/08/2026, funded $25)
+- **Domain:** ixkholdings.com (registered, not yet pointed anywhere)
 
 ## Iglesia Cristiana Satánica (ICS)
 - **EIN:** 41-5030570 — assigned 3/21/2026
